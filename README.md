@@ -18,7 +18,7 @@ I've spent the last year or so designing and building a website with a lifelong 
 We kicked off an alpha release right in time for the start of March Madness, and received lots of helpful feedback from our users on the improvements that could be made
 prior to the eventual beta release. The biggest piece of feedback we received is the need for a mobile app...although the current website is mobile-friendly,
 the presence of mobile notifications delivered directly to your phone/tablet would greatly increase the desire for users to engage with the app on a regular basis.
-We are now looking into the creation of a mobile app as part of the beta release - I've never developed a mobile app before, so that's what I am currently learning
+We are now looking into the creation of a mobile app as part of the beta release. I've never developed a mobile app before, so that's what I am currently learning
 about in my spare time.
 
 
